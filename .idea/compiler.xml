@@ -9,5 +9,8 @@
         <module name="agenda-telefonica" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="agenda-telefonica" target="1.7" />
+    </bytecodeTargetLevel>
   </component>
 </project>
